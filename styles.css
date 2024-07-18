@@ -5,7 +5,16 @@
 
 h1 {
     font-weight: 900;
-    text-align: center;
+    max-width: fit-content;
+    background-color: white;
+    padding: 24px 24px 24px;
+    border: 4px dashed red;
+    margin: 24px auto 24px; 
+}
+
+ul {
+    max-width: fit-content;
+    margin: 5px auto;
 }
 
 li {
